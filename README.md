@@ -1,3 +1,3 @@
 # Evaluation_Projects
 
-Submitted evaluation project Project 6 to Project 10 as of 31st July 2020.
+Submitted evaluation project Project 11 to Project 15 as of 06th Aug 2020.
